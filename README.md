@@ -133,4 +133,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Developer:** Pravesh Swami  
 **GitHub:** [@Vicky-64bit](https://github.com/Vicky-64bit)  
-**Email:** [Add your email here]
+**Email:** [vickyswami9460@gmail.com]
